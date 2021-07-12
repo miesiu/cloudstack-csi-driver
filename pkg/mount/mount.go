@@ -18,7 +18,7 @@ import (
 )
 
 const (
-	diskIDPath = "/dev/disk/by-id"
+	diskIDPath = "/dev/disk/by-uuid"
 )
 
 // Interface defines the set of methods to allow for
